@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/35435207/README.md)
-# André Santos
+# Andre Santos
 
 **AI agents in production · data engineering · São Paulo, Brazil**
 
